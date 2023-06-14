@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="no_account">Belum punya akun?<font color="#C58BF2"> Daftar</font></string>
+    <string name="login">Masuk</string>
+    <string name="fill_description">Isi deskripsi!</string>
+    <string name="fill_form">Isi semua form!</string>
+    <string name="fill_email">Isi email!</string>
+    <string name="fill_password">Isi password!</string>
+    <string name="fill_username">Isi username!</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="logout">Keluar</string>
+    <string name="confirm_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="invalid_email">Format email salah</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="hello_there">Halo,</string>
+    <string name="item_name">Nama</string>
+    <string name="item_name_value">Ini adalah User</string>
+    <string name="item_description">Deskripsi Story</string>
+    <string name="item_description_value">Ini adalah sebuah detail deskripsi dari story</string>
+    <string name="login_account">Masuk Ke Akunmu</string>
+    <string name="username">Nama User</string>
+    <string name="password_hint">Kata sandi minimal 8 karakter</string>
+    <string name="create_account">Buat Akun Kamu</string>
+    <string name="have_account">Sudah punya akun?<font color="#C58BF2"> Masuk</font></string>
+    <string name="login_failed">Gagal masuk, silakan coba lagi..</string>
+    <string name="regist_failed">Pendaftaran  gagal, silahkan coba lagi..</string>
+    <string name="regist_success">Pendaftaran sukses, silahkan login..</string>
+    <string name="regist">Daftar</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="choose_image">Silakan pilih file gambar terlebih dahulu.</string>
+    <string name="add_story_success">Berhasil menambahkan cerita!</string>
+    <string name="didnt_get_camera_permission">Tidak mendapatkan izin kamera.</string>
+    <string name="didnt_get_location_permission">Tidak mendapatkan izin lokasi.</string>
+    <string name="share_location">Bagikan Lokas </string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="timeout">Time Out</string>
+    <string name="cant_found_location">Tidak dapat menemukan lokasi. Periksa GPS Anda.</string>
+</resources>

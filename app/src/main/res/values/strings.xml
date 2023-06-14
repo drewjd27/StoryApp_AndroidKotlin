@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="no_account">Don\'t have an account yet?<font color="#C58BF2"> Register</font></string>
+    <string name="fill_description">Fill the description!</string>
+    <string name="fill_form">Fill all the form!</string>
+    <string name="fill_email">Fill the email!</string>
+    <string name="fill_password">Fill the password!</string>
+    <string name="fill_username">Fill the username!</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello_there">Hello there,</string>
+    <string name="item_name">Name</string>
+    <string name="item_name_value">This is a User Name</string>
+    <string name="item_description">Description</string>
+    <string name="item_description_value">This is a detail description of the story</string>
+    <string name="login_account">Login to your account</string>
+    <string name="username">Username</string>
+    <string name="password_hint">Password must be at least 8 characters</string>
+    <string name="create_account">Create Your Account</string>
+    <string name="have_account">Already have an account?<font color="#C58BF2"> Login</font></string>
+    <string name="login_failed">Login failed, please try again..</string>
+    <string name="regist_failed">Register failed, please try again..</string>
+    <string name="regist_success">Register success, please login..</string>
+    <string name="regist">Register</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="choose_image">Please choose an image or capture new image from camera</string>
+    <string name="add_story_success">Success add story!</string>
+    <string name="didnt_get_camera_permission">Didn\'t get camera permission.</string>
+    <string name="didnt_get_location_permission">Didn\'t get location permission.</string>
+    <string name="share_location">Share Location</string>
+    <string name="try_again">Try Again</string>
+    <string name="timeout">Time Out</string>
+    <string name="cant_found_location">Can\'t found location. Check your GPS.</string>
+</resources>

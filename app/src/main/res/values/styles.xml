@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="light">
+        <item name="android:fontFamily">@font/poppinslight</item>
+        <item name="android:textColor">@color/black_400</item>
+    </style>
+
+    <style name="regular">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/black_400</item>
+    </style>
+
+    <style name="medium">
+        <item name="android:fontFamily">@font/poppinsmedium</item>
+        <item name="android:textColor">@color/black_400</item>
+    </style>
+
+    <style name="bold">
+        <item name="android:fontFamily">@font/poppinsbold</item>
+        <item name="android:textColor">@color/black_400</item>
+    </style>
+
+    <style name="Widget.ButtonWLoading.Primary" parent="">
+        <item name="android:textAppearance">@style/bold</item>
+        <item name="android:textColor">@drawable/text_btn</item>
+        <item name="android:background">@drawable/bg_btn</item>
+    </style>
+    <style name="Widget.ProgressBar" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@color/accent</item>
+    </style>
+</resources>
