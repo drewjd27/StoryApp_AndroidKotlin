@@ -1,0 +1,2 @@
+# StoryApp_AndroidKotlin
+This is a repository for Story App, an Android app developed with Kotlin programming language. I use Retrofit2 to fetch data from [Dicoding Story API](https://story-api.dicoding.dev/v1/#/). This app uses MVVM architecture. I use Google Maps API to get user location from GPS. This app main feature is to post a story (photo, story description, and include user location in the story post).
